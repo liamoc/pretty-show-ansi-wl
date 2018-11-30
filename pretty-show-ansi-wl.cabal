@@ -20,9 +20,6 @@ build-type:     Simple
 
 tested-with: GHC == 8.6.1
 
-extra-source-files:
-  CHANGELOG
-
 library
   exposed-modules:
     Text.Show.Pretty
