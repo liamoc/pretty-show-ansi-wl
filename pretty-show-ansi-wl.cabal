@@ -1,5 +1,5 @@
 name:           pretty-show-ansi-wl
-version:        1.9.2
+version:        1.9.2.1
 category:       Text
 
 synopsis:       Like pretty-show, but only for ansi-wl-pprint
